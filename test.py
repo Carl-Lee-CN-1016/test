@@ -1,5 +1,3 @@
 print("123")
 print("223")
-print("323")
-print("423")
 print("523")
